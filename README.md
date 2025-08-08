@@ -1,4 +1,4 @@
-# 🔍 Hover Zoom Effect
+# 🔥 Hover Zoom Effect
 
 Hover Zoom Effect is a sleek and interactive HTML, CSS and JavaScript feature that enlarges images or elements smoothly when the user hovers over them. It enhances visual focus, draws attention, and improves user engagement on your website.
 
